@@ -1,4 +1,4 @@
 # make migration
 
 python manage.py makemigrations
-
+https://code.tutsplus.com/tutorials/how-to-authenticate-with-jwt-in-django--cms-30460
